@@ -1,0 +1,7 @@
+{
+"require-dev": {
+		"phpunit/phpunit": "9.5.*",
+				"mockery/mockery": "1.5.*",
+				"phake/phake": "v4.2.0"
+	}
+}

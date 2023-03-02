@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CardTest::testGetNumber":3,"CardTest::testIsInMatchingSet with data set \"4 of Clubs\"":3},"times":{"CardTest::testGetNumber":0.005,"CardTest::testGetSuit":0,"CardTest::testIsInMatchingSet with data set \"4 of Hearts\"":0,"CardTest::testIsInMatchingSet with data set \"5 of Hearts\"":0,"CardTest::testIsInMatchingSet with data set \"4 of Clubs\"":0}}
